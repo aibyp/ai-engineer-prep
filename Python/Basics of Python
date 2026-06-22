@@ -1,0 +1,25 @@
+# Python Basics
+
+This section covers the fundamental concepts of Python programming, including:
+
+* Variables and Data Types
+* Input and Output Operations
+* Type Casting
+* Operators
+
+  * Arithmetic Operators
+  * Comparison Operators
+  * Logical Operators
+  * Assignment Operators
+  * Bitwise Operators
+* Conditional Statements (`if`, `elif`, `else`)
+* Loops (`for`, `while`)
+* Loop Control Statements (`break`, `continue`, `pass`)
+* Strings and String Operations
+* Lists, Tuples, Sets, and Dictionaries
+* Functions
+* Modules and Packages
+* Exception Handling
+* File Handling
+
+🐍 Building a strong foundation for Machine Learning, Deep Learning, and AI.
